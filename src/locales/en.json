@@ -1,0 +1,125 @@
+{
+    "navbar": {
+        "home": "Home",
+        "tentang": "About",
+        "komitmen": "Commitment",
+        "produk": "Product",
+        "kontak": "Contact"
+    },
+    "home": {
+        "judul": "Welcome to",
+        "judulSpan": "PT. Makmur Kita Perkasa",
+        "slogan": "Improving Human and nature quality.",
+        "tonton": "Watch Video"
+    },
+    "tentang": {
+        "tentang": "About Us",
+        "desc": "Learn more details about us",
+        "keterangan": "The company that stands on equatorial earth, which is one of the islands that is still green for Indonesia with the majority of the population's livelihood by farming, then at the end of 2019 we were moved to become an extension of farmers' hands to market their agricultural products to be introduced to the world.",
+        "judulvisi": "About our vision and mission",
+        "visi": "Vision",
+        "misi": "Mission",
+        "descVisi": "Become a marketing company for agricultural products from the island of West Kalimantan to the world.",
+        "descMisi1": "Improving the quality of life of farmers through the marketing of their agricultural products.",
+        "decsMisi2": "Build farmers to use their free time with things that produce.",
+        "tujuan": "Purpose",
+        "desctujuan1": "Reduce the poverty of farmers by making the best use of time to the positives that produce.",
+        "desctujuan2": "Educate farmers how to produce products that can compete internationally."
+
+    },
+    "komitmen": {
+        "komitmen": "Commitment",
+        "decs": "Ongoing commitment/efforts to partners that affect the company's economic performance",
+        "investor": "Investor",
+        "karyawan": "Employee",
+        "desckaryawan": "Increase employee remuneration in the coming year.",
+        "pemasok": "Supplier",
+        "descpemasok": "Increase the number of suppliers to meet the needs.",
+        "pemerintah": "Government",
+        "descpemerintah": "Increase sales outside to generate foreign exchange.",
+        "lokal": "Local people",
+        "desclokal": "Increase the amount of donations to children who cannot afford it."
+    },
+    "pengadaan": {
+        "pengadaan": "Procurement Practices",
+        "pemasok": "Supplier",
+        "relasi": "Relationship",
+        "proporsi": "Proportion of Suppliers",
+        "jumlah": "Sum",
+        "lokasi": "Location",
+        "pemasoklokal": "Local suppliers",
+        "descrelasi": "Ongoing commitment/effort to maintain relationships with suppliers/improve local suppliers:",
+        "listrelasi1": "Add local suppliers in west Kalimantan region.",
+        "listrelasi2": "Regular communication with suppliers to inform product criteria in accordance with standards.",
+        "listrelasi3": "Build a standard system of raw materials."
+    },
+    "produk": {
+        "judul": "Products",
+        "produk": "Products",
+        "produkdesc": "List of Our Products",
+        "jasa": "Service",
+        "aloe": "Aloe Vera",
+        "descaloe": "Succulent plants that grow a lot in the climate, which has many benefits.",
+        "betel": "Betel Nut",
+        "descbetel": "Seeds taken from betel nut trees.",
+        "lalpari": "Lalpari Clove",
+        "desclalpari": "Lalpari clove is a flower of a plant called cloves.",
+        "coffe": "Coffe Beans",
+        "desccoffe": "Real and fresh coffee beans.",
+        "coffebubuk": "Packaged Ground Coffee",
+        "coffebubukdesc": "Real ground coffee is in the form of packaging.",
+        "coffebiji": "Packaged coffee beans",
+        "coffebijidesc": "Real coffee beans are packaging.",
+        "detail": "Detail",
+        "industri": "Industrial sector?",
+        "descindustri1": "Agriculture",
+        "descindustri2": "Trading Retail",
+        "spesifikasi": "Specifications?",
+        "descspesifikasi1": "Non genetic modification.",
+        "descspesifikasi2": "Directly from the farmer.",
+        "descspesifikasi3": "Use a sustainable agricultural system.",
+        "produksi": "Turnover/Production capability?",
+        "descproduksi": "40 tons/month.",
+        "mengawasi": "How to monitor the impact of business on the environment and society?",
+        "descmengawasi": "Communicate directly with the public Education programs partners, suppliers and consumers, providing advice and complaint facilities via email and whatsapp."
+    },
+    "keberlangsungan": {
+        "keberlangsungan": "Sustainability of the environment",
+        "bahan": "Ongoing commitment/efforts to increase the use of environmentally friendly/recycled raw materials.",
+        "descbahan": "Try to travel to make sure the products sold are in accordance with the applicable rules.",
+        "efisiensi": "Ongoing commitment to energy efficiency.",
+        "descefisiensi": "Just use sunlight to dry it."
+
+    },
+    "kerjasama": {
+        "kerjasama": "Want to",
+        "kerjasamaSpan": "work",
+        "kerjasamaAkhir": "with us?",
+        "decs": "You can contact us right now.",
+        "hubungi": "Call Now"
+    },
+    "kontak": {
+        "desckontak": "Our Contacts",
+        "decs": "Contact us by contact or come directly to our company's premises.",
+        "hubungi": "Contact Us",
+        "deschubungi": "Below is more information about our company contacts:",
+        "lokasi": "Location:",
+        "desclokasi": "Jl. PM. Yamin Komp. Kemuning Market Block C no. 8, Pontianak, West Kalimantan, Indonesia, 78116",
+        "email": "Email:",
+        "kontak": "Contact:"
+    },
+    "qr": {
+        "whatsapp": "Scan our whatsapp qr code",
+        "instagram": "Scan our instagram qr code"
+    },
+    "footer": {
+        "judul": "PT. MAKMUR KITA PERKASA",
+        "alamat": "Jl. PM. Yamin Komp. Kemuning Market Block C no. 8, Pontianak, West Kalimantan, Indonesia, 78116",
+        "telepon": "Telephone:",
+        "email": "Email:",
+        "narahubung": "Narahubung",
+        "nama": "Name:",
+        "status": "Status:",
+        "direktur": "Director"
+    }
+}

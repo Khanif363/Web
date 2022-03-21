@@ -1,0 +1,125 @@
+{
+    "navbar": {
+        "home": "房子",
+        "tentang": "关于",
+        "komitmen": "承诺",
+        "produk": "产品",
+        "kontak": "联系"
+    },
+    "home": {
+        "judul": "欢迎来到",
+        "judulSpan": "铂。 繁荣 我们 强大",
+        "slogan": "提高人类和自然的素质。",
+        "tonton": "观看视频"
+    },
+    "tentang": {
+        "tentang": "关于我们",
+        "desc": "了解更多关于我们的详细信息",
+        "keterangan": "这家公司矗立在赤道地球上，是印度尼西亚仍然绿色的岛屿之一，大部分人口通过农业谋生，然后在2019年底，我们被感动成为农民的双手的延伸，以销售他们的农产品，以推向世界。",
+        "judulvisi": "关于我们的愿景和使命",
+        "visi": "视觉",
+        "misi": "任务",
+        "descVisi": "成为从西加里曼丹岛到世界的农产品营销公司。",
+        "descMisi1": "通过销售农产品提高农民的生活质量。",
+        "decsMisi2": "培养农民，让他们利用空闲时间生产产品。",
+        "tujuan": "目的",
+        "desctujuan1": "通过充分利用时间创造积极成果，减少农民的贫困。",
+        "desctujuan2": "教育农民如何生产能够在国际上竞争的产品。"
+
+    },
+    "komitmen": {
+        "komitmen": "承诺",
+        "decs": "对影响公司经济绩效的合作伙伴的持续承诺/努力",
+        "investor": "投资者",
+        "karyawan": "员工",
+        "desckaryawan": "来年提高员工薪酬。",
+        "pemasok": "供应商",
+        "descpemasok": "增加供应商数量以满足需求。",
+        "pemerintah": "政府",
+        "descpemerintah": "增加销售，产生外汇。",
+        "lokal": "当地人",
+        "desclokal": "增加对无力支付的儿童的捐款金额。"
+    },
+    "pengadaan": {
+        "pengadaan": "采购实践",
+        "pemasok": "供应商",
+        "relasi": "关系",
+        "proporsi": "供应商比例",
+        "jumlah": "和",
+        "lokasi": "位置",
+        "pemasoklokal": "本地供应商",
+        "descrelasi": "持续承诺/努力维护与供应商的关系/改善当地供应商：",
+        "listrelasi1": "添加西加里曼丹地区的本地供应商。",
+        "listrelasi2": "定期与供应商沟通，根据标准告知产品标准。",
+        "listrelasi3": "构建原材料标准体系。"
+    },
+    "produk": {
+        "judul": "产品",
+        "produk": "产品",
+        "produkdesc": "我们的产品列表",
+        "jasa": "服务",
+        "aloe": "芦荟",
+        "descaloe": "多肉植物在气候中生长很多，这有很多好处。",
+        "betel": "伯特利坚果",
+        "descbetel": "从槟榔树中提取的种子。",
+        "lalpari": "拉尔帕里丁香",
+        "desclalpari": "丁香是一种叫做丁香的植物的花。",
+        "coffe": "咖啡豆",
+        "desccoffe": "真正和新鲜的咖啡豆。",
+        "coffebubuk": "包装咖啡粉",
+        "coffebubukdesc": "真正的研磨咖啡是包装的形式。",
+        "coffebiji": "包装咖啡豆",
+        "coffebijidesc": "真正的咖啡豆是包装。",
+        "detail": "细节",
+        "industri": "工业部门？",
+        "descindustri1": "农业",
+        "descindustri2": "交易零售",
+        "spesifikasi": "规格？",
+        "descspesifikasi1": "非基因改造。",
+        "descspesifikasi2": "直接来自农民。",
+        "descspesifikasi3": "使用可持续的农业系统。",
+        "produksi": "周转/生产能力？",
+        "descproduksi": "40吨/月。",
+        "mengawasi": "如何监控企业对环境和社会的影响？",
+        "descmengawasi": "直接与公共教育计划合作伙伴，供应商和消费者沟通，通过电子邮件和whatsapp提供建议和投诉设施。"
+    },
+    "keberlangsungan": {
+        "keberlangsungan": "环境的可持续性",
+        "bahan": "持续承诺/努力增加环保/再生原材料的使用。",
+        "descbahan": "尽量旅行，以确保销售的产品符合适用的规则。",
+        "efisiensi": "对能源效率的持续承诺。",
+        "descefisiensi": "只需用阳光擦干即可。"
+
+    },
+    "kerjasama": {
+        "kerjasama": "想要建立",
+        "kerjasamaSpan": "合作",
+        "kerjasamaAkhir": "和我们在一起？",
+        "decs": "您可以立即与我们联系。",
+        "hubungi": "立即致电"
+    },
+    "kontak": {
+        "desckontak": "我们的联系方式",
+        "decs": "请与我们联系或直接前往我们公司的场所。",
+        "hubungi": "联系我们",
+        "deschubungi": "以下是有关我们公司联系方式的更多信息：",
+        "lokasi": "位置：",
+        "desclokasi": "Jl. PM. Yamin Komp. Pasar Kemuning Blok C no. 8, Pontianak, Kalimantan Barat, Indonesia, 78116",
+        "email": "电子邮件：",
+        "kontak": "联系："
+    },
+    "qr": {
+        "whatsapp": "扫描我们的苹果应用维码",
+        "instagram": "扫描我们的我们的优势维码"
+    },
+    "footer": {
+        "judul": "铂。 繁荣 我们 强大",
+        "alamat": "Jl. PM. Yamin Komp. Pasar Kemuning Blok C no. 8, Pontianak,Kalimantan Barat, Indonesia, 78116",
+        "telepon": "电话:",
+        "email": "电子邮件：",
+        "narahubung": "奈良浑",
+        "nama": "名字：",
+        "status": "地位：",
+        "direktur": "导演"
+    }
+}

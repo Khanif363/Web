@@ -1,0 +1,125 @@
+{
+    "navbar": {
+        "home": "Home",
+        "tentang": "Tentang",
+        "komitmen": "Komitmen",
+        "produk": "Produk",
+        "kontak": "Kontak"
+    },
+    "home": {
+        "judul": "Selamat datang di",
+        "judulSpan": "PT. Makmur Kita Perkasa",
+        "slogan": "Improving Human and nature quality.",
+        "tonton": "Tonton Video"
+    },
+    "tentang": {
+        "tentang": "Tentang Kami",
+        "desc": "Pelajari lebih detail tentang kami",
+        "keterangan": "Perusahaan yang berdiri di bumi khatulistiwa, yang merupakan salah satu pulau yang masih hijau bagi Indonesia dengan mayoritas pencaharian penduduk dengan bercocok tanam, maka di akhir tahun 2019 kami tergerak untuk menjadi perpanjangan tangan petani untuk memasarkan hasil produk pertaniannya untuk diperkenalkan kepada dunia.",
+        "judulvisi": "Mengenai visi dan misi kami",
+        "visi": "Visi",
+        "misi": "Misi",
+        "descVisi": "Menjadi perusahaan pemasaran produk pertanian dari pulau Kalimantan barat kepada dunia.",
+        "descMisi1": "Meningkatkan kualitas hidup petani melalui pemasaran produk hasil pertaniannya.",
+        "decsMisi2": "Membangun petani untuk menggunakan waktu luang dengan hal yang menghasilkan.",
+        "tujuan": "Tujuan",
+        "desctujuan1": "Mengurangi kemiskinan petani dengan memanfaatkan waktu yang sebaik baiknya ke hal positif yang menghasilkan.",
+        "desctujuan2": "Mengedukasi petani bagaimana menghasilkan produk yang bisa bersaing di international."
+
+    },
+    "komitmen": {
+        "komitmen": "Komitmen",
+        "decs": "Komitmen/Upaya berkelanjutan untuk para mitra yang berpengaruh pada kinerja ekonomi perusahaan",
+        "investor": "Investor",
+        "karyawan": "Karyawan",
+        "desckaryawan": "Meningkatkan remunerasi karyawan pada tahun tahun mendatang.",
+        "pemasok": "Pemasok",
+        "descpemasok": "Meningkatkan jumlah pemasok untuk mencukupi kebutuhan.",
+        "pemerintah": "Pemerintah",
+        "descpemerintah": "Meningkatkan penjualan ke luar luntuk menghasilkan devisa.",
+        "lokal": "Masyarakat lokal",
+        "desclokal": "Meningkatkan jumlah sumbangan kepada anak anak tidak mampu."
+    },
+    "pengadaan": {
+        "pengadaan": "Praktik Pengadaan",
+        "pemasok": "Pemasok",
+        "relasi": "Relasi",
+        "proporsi": "Proporsi Pemasok",
+        "jumlah": "Jumlah",
+        "lokasi": "Lokasi",
+        "pemasoklokal": "Pemasok lokal",
+        "descrelasi": "Komitmen/upaya berkelanjutan untuk mempertahankan relasi dengan pemasok/ meningkatkan pemasok lokal:",
+        "listrelasi1": "Menambah pemasok local di wilayah Kalimantan barat.",
+        "listrelasi2": "Komunikasi rutin dengan pemasok untuk menginformasikan kriteria produk yang sesuai dengan standar.",
+        "listrelasi3": "Membangun system standar bahan baku."
+    },
+    "produk": {
+        "judul": "Produk",
+        "produk": "Produk",
+        "produkdesc": "Daftar Produk Kami",
+        "jasa": "Jasa",
+        "aloe": "Aloe Vera",
+        "descaloe": "Tanaman sukulen yang tumbuh dengan banyak di iklim,yang memiliki banyak manfaat.",
+        "betel": "Betel Nut",
+        "descbetel": "Biji yang diambil dari pohon pinang.",
+        "lalpari": "Lalpari Clove",
+        "desclalpari": "Lalpari clove adalah bunga dari sebuah tanaman yang bernama cengkeh.",
+        "coffe": "Coffe Beans",
+        "desccoffe": "Biji kopi asli dan segar.",
+        "coffebubuk": "Kopi Bubuk Kemasan",
+        "coffebubukdesc": "Kopi bubuk asli berupa kemasan.",
+        "coffebiji": "Biji kopi kemasan",
+        "coffebijidesc": "Biji kopi asli berupa kemasan.",
+        "detail": "Detail",
+        "industri": "Sektor Industri?",
+        "descindustri1": "Pertanian",
+        "descindustri2": "Trading Retail",
+        "spesifikasi": "Spesifikasi?",
+        "descspesifikasi1": "Non genetic modification.",
+        "descspesifikasi2": "Langsung dari petani.",
+        "descspesifikasi3": "Memakai system pertanian yang berkelanjutan.",
+        "produksi": "Omzet/Kemampuan produksi?",
+        "descproduksi": "40 Ton perbulan.",
+        "mengawasi": "Upaya mengawasi dampak bisnis terhadap lingkungan hidup dan masyarakat?",
+        "descmengawasi": "Berkomunikasi langsung dengan masyarakat Program edukasi mitra, pemasok dan konsumen,Memberikan fasilitas saran dan keluhan melalui email dan whatsapp."
+    },
+    "keberlangsungan": {
+        "keberlangsungan": "Keberlangsungan lingkungan hidup",
+        "bahan": "Komitmen/upaya berkelanjutan untuk meningkatkan penggunaan bahan baku yang ramah lingkungan/daur ulang.",
+        "descbahan": "Berupaya berkelanjutkan untuk memastikan produk yang di jual sesuai dengan aturan yang berlaku.",
+        "efisiensi": "Komitmen/upaya berkelanjutan untuk efisiensi energi.",
+        "descefisiensi": "Hanya memakai sinar matahari untuk mengeringkannya."
+
+    },
+    "kerjasama": {
+        "kerjasama": "Ingin Menjalin",
+        "kerjasamaSpan": "Kerjasama",
+        "kerjasamaAkhir": "dengan kami?",
+        "decs": "Anda bisa menghubungi kami sekarang juga.",
+        "hubungi": "Hubungi Sekarang"
+    },
+    "kontak": {
+        "desckontak": "Kontak Kami",
+        "decs": "Hubungi kami melalui kontak ataupun datang langsung ke tempat perusahaan kami.",
+        "hubungi": "Hubungi Kami",
+        "deschubungi": "Di bawah ini adalah informasi selengkapnya mengenai kontak perusahaan kami:",
+        "lokasi": "Lokasi:",
+        "desclokasi": "Jl. PM. Yamin Komp. Pasar Kemuning Blok C no. 8, Pontianak, Kalimantan Barat, Indonesia, 78116",
+        "email": "Email:",
+        "kontak": "Kontak"
+    },
+    "qr": {
+        "whatsapp": "Scan qr code whatsapp kami",
+        "instagram": "Scan qr code instagram kami"
+    },
+    "footer": {
+        "judul": "PT. MAKMUR KITA PERKASA",
+        "alamat": "Jl. PM. Yamin Komp. Pasar Kemuning Blok C no. 8, Pontianak,Kalimantan Barat, Indonesia, 78116",
+        "telepon": "Telepon:",
+        "email": "Email:",
+        "narahubung": "Narahubung",
+        "nama": "Nama:",
+        "status": "Status:",
+        "direktur": "Direktur"
+    }
+}
