@@ -484,7 +484,7 @@
                 <div class="col-lg-8 col-md-6 content d-flex flex-column justify-content-center order-last order-md-first">
                   <h3>{{ $t("kerjasama.kerjasama") }} <em>{{ $t("kerjasama.kerjasamaSpan") }}</em> {{ $t("kerjasama.kerjasamaAkhir") }}</h3>
                   <p>{{ $t("kerjasama.decs") }}</p>
-                  <a class="cta-btn align-self-start text-decoration-none" href="wa.me/6281513110686">{{ $t("kerjasama.hubungi") }}</a>
+                  <a class="cta-btn align-self-start text-decoration-none" href="https://wa.me/6281513110686">{{ $t("kerjasama.hubungi") }}</a>
                 </div>
       
                 <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
