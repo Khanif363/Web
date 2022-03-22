@@ -117,105 +117,6 @@
   
         </div>
       </section><!-- End About Section -->
-  
-      <!-- ======= Testimonials Section ======= -->
-      <section id="testimonials" class="testimonials">
-        <div class="container" data-aos="fade-up">
-  
-          <div class="testimonials-slider swiper">
-            <div class="swiper-wrapper">
-  
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-  
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-  
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-  
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-  
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                  <p>
-                    <i class="bi bi-quote quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                    <i class="bi bi-quote quote-icon-right"></i>
-                  </p>
-                </div>
-              </div><!-- End testimonial item -->
-  
-            </div>
-            <div class="swiper-pagination"></div>
-          </div>
-  
-        </div>
-      </section><!-- End Testimonials Section -->
-  
-      <!-- ======= Pricing Section ======= -->
-  
-      <!-- ======= F.A.Q Section ======= -->
-
 
 <section id="produk" class="about">
     <div class="container" data-aos="fade-up">
@@ -276,7 +177,10 @@
                             <img  src="/assets/img/lalpari-crove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.lalpari") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.desclalpari") }}</p>
+                              <p class="card-text">{{ $t("produk.desclalpari1") }}<br>
+                              {{ $t("produk.desclalpari2") }}<br>
+                              {{ $t("produk.desclalpari3") }}<br>
+                              {{ $t("produk.desclalpari4") }}</p>
                               <div class="d-flex justify-content-between align-items-center">
                               </div>
                           </div>
@@ -382,100 +286,6 @@
       </div>
   </div>
 
-
-
-      <!-- ======= Team Section ======= -->
-      <section id="team" class="team">
-        <div class="container" data-aos="fade-up">
-  
-          <div class="section-header">
-            <h2>Our Team</h2>
-            <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
-          </div>
-  
-          <div class="row gy-5">
-  
-            <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="200">
-              <div class="team-member">
-                <div class="member-img">
-                  <img src="/assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="member-info">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
-                </div>
-              </div>
-            </div><!-- End Team Member -->
-  
-            <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
-              <div class="team-member">
-                <div class="member-img">
-                  <img src="/assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="member-info">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
-                </div>
-              </div>
-            </div><!-- End Team Member -->
-  
-            <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="600">
-              <div class="team-member">
-                <div class="member-img">
-                  <img src="/assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="member-info">
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                </div>
-              </div>
-            </div><!-- End Team Member -->
-  
-          </div>
-  
-        </div>
-      </section><!-- End Team Section -->
-  
-          <!-- ======= Clients Section ======= -->
-          <!-- <section id="clients" class="clients container"  style = "max-width:90%; height:90%;">
-            <div class="container" data-aos="zoom-out">
-      
-              <div class="clients-slider swiper">
-                <div class="swiper-wrapper align-items-center responsive">
-                  <div class="swiper-slide" ><img src="/assets/img/clients/client-1.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-2.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-3.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-4.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-5.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-6.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-7.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="/assets/img/clients/client-8.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                </div>
-              </div>
-      
-            </div>
-          </section> -->
-          <!-- End Clients Section -->
-      
-          <!-- ======= Call To Action Section ======= -->
           <section id="cta" class="cta">
             <div class="container" data-aos="zoom-out">
       
@@ -590,7 +400,7 @@
               </div>
             </div>
   
-            <div class="col-lg-2 col-md-6 footer-links">
+            <!-- <div class="col-lg-2 col-md-6 footer-links">
               <h4>Link</h4>
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <a href="index.html">{{ $t("navbar.home") }}</a></li>
@@ -599,7 +409,7 @@
                 <li><i class="bi bi-chevron-right"></i> <a href="#produk">{{ $t("navbar.produk") }}</a></li>
                 <li><i class="bi bi-chevron-right"></i> <a href="#contact">{{ $t("navbar.kontak") }}</a></li>
               </ul>
-            </div>
+            </div> -->
   
             <!-- <div class="col-lg-3 col-md-6 footer-links">
               <h4>Layanan Kami</h4>
