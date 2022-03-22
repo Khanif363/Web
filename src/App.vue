@@ -6,9 +6,9 @@
   
         <a href="index.html" class="logo d-flex align-items-center scrollto me-auto me-lg-0 ms-3">
           <!-- Uncomment the line below if you also wish to use an image logo -->
-          <!-- <img src="./assets/img/logo.png" alt=""> -->
+          <!-- <img src="/assets/img/logo.png" alt=""> -->
           <!-- <h1>HeroBiz<span>.</span></h1> -->
-          <img src="./assets/img/logo-per-removebg-preview.png" alt="">
+          <img src="/assets/img/logo-per-removebg-preview.png" alt="">
         </a>
   
         <nav id="navbar" class="navbar">
@@ -36,7 +36,7 @@
 
     <section id="hero-animated" class="hero-animated d-flex align-items-center">
       <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
-        <img src="./assets/img/design-awal.png" class="img-fluid animated">
+        <img src="/assets/img/design-awal.png" class="img-fluid animated">
         <h2>{{ $t("home.judul") }} <span>{{ $t("home.judulSpan") }}</span></h2>
         <p>{{ $t("home.slogan") }}</p>
         <div class="d-flex">
@@ -62,7 +62,7 @@
   
             <div class="col-lg-5">
               <div class="">
-                <img src="./assets/img/vsi.png" style="border-radius: 1%;" class="img-fluid" alt="">
+                <img src="/assets/img/vsi.png" style="border-radius: 1%;" class="img-fluid" alt="">
               </div>
             </div>
   
@@ -127,7 +127,7 @@
   
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="./assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                  <img src="/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                   <h3>Saul Goodman</h3>
                   <h4>Ceo &amp; Founder</h4>
                   <div class="stars">
@@ -143,7 +143,7 @@
   
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="./assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                  <img src="/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                   <h3>Sara Wilsson</h3>
                   <h4>Designer</h4>
                   <div class="stars">
@@ -159,7 +159,7 @@
   
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="./assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                  <img src="/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                   <h3>Jena Karlis</h3>
                   <h4>Store Owner</h4>
                   <div class="stars">
@@ -175,7 +175,7 @@
   
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="./assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                  <img src="/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                   <h3>Matt Brandon</h3>
                   <h4>Freelancer</h4>
                   <div class="stars">
@@ -191,7 +191,7 @@
   
               <div class="swiper-slide">
                 <div class="testimonial-item">
-                  <img src="./assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                  <img src="/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                   <h3>John Larson</h3>
                   <h4>Entrepreneur</h4>
                   <div class="stars">
@@ -232,11 +232,11 @@
               <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3">
                   <div class="col">
                       <div class="card shadow-sm">
-                          <!-- <img v-on:click="toogle1 = !toogle1 | toogle1 != toogle2 | toogle1 != toogle3 | toogle1 != toogle4" v-bind:class="{besar: !toogle1}" src="./assets/img/aloe.png" alt=""
+                          <!-- <img v-on:click="toogle1 = !toogle1 | toogle1 != toogle2 | toogle1 != toogle3 | toogle1 != toogle4" v-bind:class="{besar: !toogle1}" src="/assets/img/aloe.png" alt=""
                               class="bd-placeholder-img card-img-top zoom" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
 
-                          <img src="./assets/img/aloe.png" type="button" data-bs-toggle="modal" data-bs-target="#nomor1">
+                          <img src="/assets/img/aloe.png" type="button" data-bs-toggle="modal" data-bs-target="#nomor1">
 
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.aloe") }}</strong></h5>
@@ -250,16 +250,16 @@
                           <!-- <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered">
                               <div class="modal-content">
-                                <img src="./assets/img/aloe.png" alt="">
+                                <img src="/assets/img/aloe.png" alt="">
                               </div>
                             </div>
                           </div> -->
                   <div class="col">
                       <div class="card shadow-sm">
-                          <!-- <img  v-on:click="toogle2 = !toogle2 | toogle2 != toogle1 | toogle2 != toogle3 | toogle2 != toogle4" v-bind:class="{besar: !toogle2}"  src="./assets/img/betel-nut.png" alt=""
+                          <!-- <img  v-on:click="toogle2 = !toogle2 | toogle2 != toogle1 | toogle2 != toogle3 | toogle2 != toogle4" v-bind:class="{besar: !toogle2}"  src="/assets/img/betel-nut.png" alt=""
                               class="bd-placeholder-img card-img-top" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-                          <img src="./assets/img/betel-nut.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+                          <img src="/assets/img/betel-nut.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.betel") }}</strong></h5>
                               <p class="card-text">{{ $t("produk.descbetel") }}</p>
@@ -270,10 +270,10 @@
                   </div>
                   <div class="col">
                       <div class="card shadow-sm">
-                          <!-- <img  v-on:click="toogle3 = !toogle3 | toogle3 != toogle1 | toogle3 != toogle2 | toogle3 != toogle4" v-bind:class="{besar: !toogle3}"  src="./assets/img/lalpari-crove.png" alt=""
+                          <!-- <img  v-on:click="toogle3 = !toogle3 | toogle3 != toogle1 | toogle3 != toogle2 | toogle3 != toogle4" v-bind:class="{besar: !toogle3}"  src="/assets/img/lalpari-crove.png" alt=""
                               class="bd-placeholder-img card-img-top" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-                            <img  src="./assets/img/lalpari-crove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+                            <img  src="/assets/img/lalpari-crove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.lalpari") }}</strong></h5>
                               <p class="card-text">{{ $t("produk.desclalpari") }}</p>
@@ -284,10 +284,10 @@
                   </div>
                   <div class="col">
                       <div class="card shadow-sm">
-                          <!-- <img v-on:click="toogle4 = !toogle4 | toogle4 != toogle1 | toogle4 != toogle3 | toogle4 != toogle2" v-bind:class="{besar: !toogle4}" src="./assets/img/coofe-beans.png" alt=""
+                          <!-- <img v-on:click="toogle4 = !toogle4 | toogle4 != toogle1 | toogle4 != toogle3 | toogle4 != toogle2" v-bind:class="{besar: !toogle4}" src="/assets/img/coofe-beans.png" alt=""
                               class="bd-placeholder-img card-img-top" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-                            <img src="./assets/img/coofe-beans.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
+                            <img src="/assets/img/coofe-beans.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.coffe") }}</strong></h5>
                               <p class="card-text">{{ $t("produk.desccoffe") }}</p>
@@ -298,10 +298,10 @@
                   </div>
                   <div class="col">
                       <div class="card shadow-sm">
-                          <!-- <img v-on:click="toogle4 = !toogle4 | toogle4 != toogle1 | toogle4 != toogle3 | toogle4 != toogle2" v-bind:class="{besar: !toogle4}" src="./assets/img/coofe-beans.png" alt=""
+                          <!-- <img v-on:click="toogle4 = !toogle4 | toogle4 != toogle1 | toogle4 != toogle3 | toogle4 != toogle2" v-bind:class="{besar: !toogle4}" src="/assets/img/coofe-beans.png" alt=""
                               class="bd-placeholder-img card-img-top" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-                            <img src="./assets/img/kopi-bubuk-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal5">
+                            <img src="/assets/img/kopi-bubuk-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.coffebubuk") }}</strong></h5>
                               <p class="card-text">{{ $t("produk.coffebubukdesc") }}</p>
@@ -312,10 +312,10 @@
                   </div>
                   <div class="col">
                       <div class="card shadow-sm">
-                          <!-- <img v-on:click="toogle4 = !toogle4 | toogle4 != toogle1 | toogle4 != toogle3 | toogle4 != toogle2" v-bind:class="{besar: !toogle4}" src="./assets/img/coofe-beans.png" alt=""
+                          <!-- <img v-on:click="toogle4 = !toogle4 | toogle4 != toogle1 | toogle4 != toogle3 | toogle4 != toogle2" v-bind:class="{besar: !toogle4}" src="/assets/img/coofe-beans.png" alt=""
                               class="bd-placeholder-img card-img-top" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-                            <img src="./assets/img/biji-kopi-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                            <img src="/assets/img/biji-kopi-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.coffebiji") }}</strong></h5>
                               <p class="card-text">{{ $t("produk.coffebijidesc") }}</p>
@@ -337,7 +337,7 @@
   <div class="modal fade" id="nomor1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
-          <img class="rounded" src="./assets/img/aloe.png" alt="">
+          <img class="rounded" src="/assets/img/aloe.png" alt="">
         </div>
       </div>
   </div>
@@ -345,7 +345,7 @@
   <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
-          <img class="rounded" src="./assets/img/betel-nut.png" alt="">
+          <img class="rounded" src="/assets/img/betel-nut.png" alt="">
         </div>
       </div>
   </div>
@@ -353,7 +353,7 @@
   <div class="modal fade" id="exampleModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
-          <img class="rounded" src="./assets/img/lalpari-crove.png" alt="">
+          <img class="rounded" src="/assets/img/lalpari-crove.png" alt="">
         </div>
       </div>
   </div>
@@ -361,7 +361,7 @@
   <div class="modal fade" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
-          <img class="rounded" src="./assets/img/coofe-beans.png" alt="">
+          <img class="rounded" src="/assets/img/coofe-beans.png" alt="">
         </div>
       </div>
   </div>
@@ -369,7 +369,7 @@
   <div class="modal fade" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
-          <img class="rounded" src="./assets/img/kopi-bubuk-kemasan.png" alt="">
+          <img class="rounded" src="/assets/img/kopi-bubuk-kemasan.png" alt="">
         </div>
       </div>
   </div>
@@ -377,7 +377,7 @@
   <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
-          <img class="rounded" src="./assets/img/biji-kopi-kemasan.png" alt="">
+          <img class="rounded" src="/assets/img/biji-kopi-kemasan.png" alt="">
         </div>
       </div>
   </div>
@@ -398,7 +398,7 @@
             <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="200">
               <div class="team-member">
                 <div class="member-img">
-                  <img src="./assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                  <img src="/assets/img/team/team-1.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <div class="social">
@@ -416,7 +416,7 @@
             <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
               <div class="team-member">
                 <div class="member-img">
-                  <img src="./assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                  <img src="/assets/img/team/team-2.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <div class="social">
@@ -434,7 +434,7 @@
             <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="600">
               <div class="team-member">
                 <div class="member-img">
-                  <img src="./assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                  <img src="/assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="member-info">
                   <div class="social">
@@ -460,14 +460,14 @@
       
               <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center responsive">
-                  <div class="swiper-slide" ><img src="./assets/img/clients/client-1.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-2.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-3.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-4.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-5.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-6.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-7.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
-                  <div class="swiper-slide"><img src="./assets/img/clients/client-8.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide" ><img src="/assets/img/clients/client-1.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-2.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-3.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-4.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-5.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-6.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-7.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
+                  <div class="swiper-slide"><img src="/assets/img/clients/client-8.png" style = "max-width:80%; height:80%;" class="img-fluid" alt=""></div>
                 </div>
               </div>
       
@@ -489,7 +489,7 @@
       
                 <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
                   <div class="img">
-                    <img src="./assets/img/cta.jpg" alt="" class="img-fluid">
+                    <img src="/assets/img/cta.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
       
@@ -554,14 +554,14 @@
   
             <div class="col-lg-3 container">
               <div  style="margin-top:40px" class="text-center">
-                  <img src="./assets/img/qr-whatsapp.png" alt="">
+                  <img src="/assets/img/qr-whatsapp.png" alt="">
                   <p class="container text-muted justify-center">{{ $t("qr.whatsapp") }}</p>
               </div>
             </div>
  
             <div class="col-lg-3 container">
               <div style="margin-top:40px" class="text-center">
-                  <img src="./assets/img/qr-ig.png" alt="">
+                  <img src="/assets/img/qr-ig.png" alt="">
                   <p class="container text-muted" style="text-size:80%">{{ $t("qr.instagram") }}</p>
               </div>
             </div>
