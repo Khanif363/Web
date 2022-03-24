@@ -142,7 +142,6 @@
 
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.aloe") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.descaloe") }}</p>
                               <div class="d-flex justify-content-between align-items-center">
                               </div>
                           </div>
@@ -164,9 +163,6 @@
                           <img src="/assets/img/betel-nut.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.betel") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.descbetel") }}</p>
-                              <div class="d-flex justify-content-between align-items-center">
-                              </div>
                           </div>
                       </div>
                   </div>
@@ -178,12 +174,6 @@
                             <img  src="/assets/img/lalpari-crove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.lalpari") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.desclalpari1") }}<br>
-                              {{ $t("produk.desclalpari2") }}<br>
-                              {{ $t("produk.desclalpari3") }}<br>
-                              {{ $t("produk.desclalpari4") }}</p>
-                              <div class="d-flex justify-content-between align-items-center">
-                              </div>
                           </div>
                       </div>
                   </div>
@@ -195,9 +185,6 @@
                             <img src="/assets/img/coofe-beans.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.coffe") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.desccoffe") }}</p>
-                              <div class="d-flex justify-content-between align-items-center">
-                              </div>
                           </div>
                       </div>
                   </div>
@@ -209,9 +196,6 @@
                             <img src="/assets/img/kopi-bubuk-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal5">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.coffebubuk") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.coffebubukdesc") }}</p>
-                              <div class="d-flex justify-content-between align-items-center">
-                              </div>
                           </div>
                       </div>
                   </div>
@@ -223,9 +207,6 @@
                             <img src="/assets/img/biji-kopi-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
                           <div class="card-body">
                               <h5><strong>{{ $t("produk.coffebiji") }}</strong></h5>
-                              <p class="card-text">{{ $t("produk.coffebijidesc") }}</p>
-                              <div class="d-flex justify-content-between align-items-center">
-                              </div>
                           </div>
                       </div>
                   </div>
@@ -925,7 +906,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls6"  class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls6"  class="carousel slide wet-asphalt" data-bs-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item ">
               <div class="row">
