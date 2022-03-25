@@ -18,10 +18,10 @@
             <li><a class="nav-link scrollto" href="index.html#produk">{{ $t("navbar.produk") }}</a></li>
             <li><a class="nav-link scrollto" href="index.html#contact">{{ $t("navbar.kontak") }}</a></li>
             <div class="nav-link scrollto">
-              <select v-model="language" @change="changeLanguage" class="custome-select" style="border-radius:20px;">
-                <option value="id">Indonesia</option>
-                <option value="en">English</option>
-                <option value="man">中文</option>
+              <select v-model="language" @change="changeLanguage" class="custome-select bg-transparent scrollto text-light" style="border-radius:20px;">
+                <option class="bg-dark text-light  scrollto" value="id">Indonesia</option>
+                <option class="bg-dark text-light  scrollto" value="en">English</option>
+                <option class="bg-dark text-light  scrollto" value="man">中文</option>
               </select>
             </div>
           </ul>
@@ -34,17 +34,26 @@
       </div>
     </header><!-- End Header -->
 
-    <section id="hero-animated" class="hero-animated d-flex align-items-center">
-      <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
-        <img src="/assets/img/logo-per-removebg-preview.png" class="img-fluid animated">
-        <h2>{{ $t("home.judul") }} <span>{{ $t("home.judulSpan") }}</span></h2>
-        <p>{{ $t("home.slogan") }}</p>
+    <section id="hero" class="hero-animated d-flex align-items-center">
+      <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out" style="margin-top:200px">
+        <!-- <img src="/assets/img/logo-per-removebg-preview.png" class="img-fluid animated"> -->
+        <h2 class="text-white"><strong>{{ $t("home.judul") }}</strong><br><span class="text-info"><strong>{{ $t("home.judulSpan") }}</strong></span></h2>
+        <p class="text-light"><strong>{{ $t("home.slogan") }}</strong></p>
         <div class="d-flex">
-          <!-- <a href="#about" class="btn-get-started scrollto">Get Started</a> -->
-          <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox text-decoration-none btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>{{ $t("home.tonton") }}</span></a>
+          <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox text-decoration-none btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span class="text-light">{{ $t("home.tonton") }}</span></a>
         </div>
       </div>
     </section>
+    <!-- <div class="hero-animated">
+      <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
+        <img src="/assets/img/logo-per-removebg-preview.png" class="img-fluid animated">
+        <h2><strong>{{ $t("home.judul") }}</strong><br><span><strong>{{ $t("home.judulSpan") }}</strong></span></h2>
+        <p><strong>{{ $t("home.slogan") }}</strong></p>
+        <div class="d-flex">
+          <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox text-decoration-none btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span class="text-dark">{{ $t("home.tonton") }}</span></a>
+        </div>
+      </div>
+    </div> -->
   
     <main id="main">
   
@@ -63,7 +72,7 @@
   
             <div class="col-lg-5">
               <div class="">
-                <img src="/assets/img/kantor-perusahaan.jpeg" style="border-radius: 1%;" class="img-fluid" alt="">
+                <img src="/assets/img/logo-per-removebg-preview.png" style="border-radius: 1%;" class="img-fluid" alt="">
               </div>
             </div>
   
@@ -226,7 +235,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls"  class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls"  class="carousel slide" data-interval="false">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row">
@@ -362,7 +371,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls2"  class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls2"  class="carousel slide" data-interval="false">
           <div class="carousel-inner">
             <div class="carousel-item">
               <div class="row">
@@ -498,7 +507,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls3"  class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls3"  class="carousel slide" data-interval="false">
           <div class="carousel-inner">
             <div class="carousel-item ">
               <div class="row">
@@ -634,7 +643,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls4"  class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls4"  class="carousel slide" data-interval="false">
           <div class="carousel-inner">
             <div class="carousel-item ">
               <div class="row">
@@ -770,7 +779,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls5"  class="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls5"  class="carousel slide" data-interval="false">
           <div class="carousel-inner">
             <div class="carousel-item ">
               <div class="row">
@@ -906,7 +915,7 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
 
-        <div id="carouselExampleControls6"  class="carousel slide wet-asphalt" data-bs-ride="carousel">
+        <div id="carouselExampleControls6"  class="carousel slide wet-asphalt" data-interval="false">
           <div class="carousel-inner">
             <div class="carousel-item ">
               <div class="row">
@@ -1081,31 +1090,7 @@
       </div>
   </div> -->
 
-  <div class="modal fade" id="exampleModal4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <img class="rounded" src="/assets/img/coofe-beans.png" alt="">
-        </div>
-      </div>
-  </div>
-
-  <div class="modal fade" id="exampleModal5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <img class="rounded" src="/assets/img/kopi-bubuk-kemasan.png" alt="">
-        </div>
-      </div>
-  </div>
-
-  <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-          <img class="rounded" src="/assets/img/biji-kopi-kemasan.png" alt="">
-        </div>
-      </div>
-  </div>
-
-          <section id="cta" class="cta">
+          <!-- <section id="cta" class="cta">
             <div class="container" data-aos="zoom-out">
       
               <div class="row g-5">
@@ -1114,18 +1099,11 @@
                   <h3>{{ $t("kerjasama.kerjasama") }} <em>{{ $t("kerjasama.kerjasamaSpan") }}</em> {{ $t("kerjasama.kerjasamaAkhir") }}</h3>
                   <p>{{ $t("kerjasama.decs") }}</p>
                   <a class="cta-btn align-self-start text-decoration-none" href="https://wa.me/6281513110686">{{ $t("kerjasama.hubungi") }}</a>
-                </div>
-      
-                <!-- <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
-                  <div class="img">
-                    <img src="/assets/img/cta.jpg" alt="" class="img-fluid">
-                  </div>
-                </div> -->
-      
+                </div>   
               </div>
-      
             </div>
-          </section><!-- End Call To Action Section -->
+          </section> -->
+          <!-- End Call To Action Section -->
 
       <!-- ======= Contact Section ======= -->
       <section id="contact" class="contact">
@@ -1184,14 +1162,14 @@
             <div class="col-lg-3 container">
               <div  style="margin-top:40px" class="text-center">
                   <img src="/assets/img/qr-whatsapp.png" alt="">
-                  <p class="container text-muted justify-center">{{ $t("qr.whatsapp") }}</p>
+                  <p class="container text-muted mx-auto">{{ $t("qr.whatsapp") }}</p>
               </div>
             </div>
  
             <div class="col-lg-3 container">
               <div style="margin-top:40px" class="text-center">
                   <img src="/assets/img/qr-ig.png" alt="">
-                  <p class="container text-muted" style="text-size:80%">{{ $t("qr.instagram") }}</p>
+                  <p class="container text-muted mx-auto" style="text-size:80%">{{ $t("qr.instagram") }}</p>
               </div>
             </div>
   
@@ -1298,6 +1276,7 @@ export default {
   align-items: center;
   flex-wrap: wrap;
   flex: 50%;
+  
 }
 
 </style>
