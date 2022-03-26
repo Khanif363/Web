@@ -103,10 +103,10 @@
                               class="bd-placeholder-img card-img-top zoom" width="100%" height="225"> -->
                           <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
 
-                          <img src="/assets/img/aloe.png" type="button" data-bs-toggle="modal" data-bs-target="#nomor1">
+                          <img src="/assets/img/aloe-vera.png" type="button" data-bs-toggle="modal" data-bs-target="#nomor1">
 
                           <div class="card-body">
-                              <h5><strong>{{ $t("produk.aloe") }}</strong></h5>
+                              <h5><strong class="text-dark">{{ $t("produk.aloe") }}</strong></h5>
                               <div class="d-flex justify-content-between align-items-center">
                               </div>
                           </div>
@@ -116,9 +116,9 @@
                   <div class="col">
                       <router-link to="/produk-betel">
                       <div class="card shadow-sm">
-                          <img src="/assets/img/betel-nut.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+                          <img src="/assets/img/betel.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                           <div class="card-body">
-                              <h5><strong>{{ $t("produk.betel") }}</strong></h5>
+                              <h5><strong class="text-dark">{{ $t("produk.betel") }}</strong></h5>
                           </div>
                       </div>
                       </router-link>
@@ -126,9 +126,9 @@
                   <div class="col">
                       <router-link to="/produk-clove">
                       <div class="card shadow-sm">
-                            <img  src="/assets/img/lalpari-crove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+                            <img  src="/assets/img/clove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                               <div class="card-body">
-                                <h5><strong>{{ $t("produk.lalpari") }}</strong></h5>
+                                <h5><strong class="text-dark">{{ $t("produk.lalpari") }}</strong></h5>
                               </div>
                       </div>
                       </router-link>
@@ -136,36 +136,16 @@
                   <div class="col">
                       <router-link to="/produk-coffee">
                       <div class="card shadow-sm">
-                            <img src="/assets/img/coofe-beans.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
+                            <img src="/assets/img/coffee-beans.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                             <div class="card-body">
-                              <h5><strong>{{ $t("produk.coffe") }}</strong></h5>
+                              <h5><strong class="text-dark">{{ $t("produk.coffe") }}</strong></h5>
                             </div>
                       </div>
                       </router-link>
-                  </div>
-                  <!-- <div class="col">
-                      <div class="card shadow-sm">
-                           <img src="/assets/img/kopi-bubuk-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal5">
-                            <div class="card-body">
-                              <h5><strong>{{ $t("produk.coffebubuk") }}</strong></h5>
-                          </div>
-                      </div>
-                  </div> -->
-                  <!-- <div class="col">
-                      <div class="card shadow-sm">
-                            <img src="/assets/img/biji-kopi-kemasan.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
-                          <div class="card-body">
-                              <h5><strong>{{ $t("produk.coffebiji") }}</strong></h5>
-                          </div>
-                      </div>
-                  </div> -->
-                  
+                  </div>             
               </div>
-
           </div>
-
         </div>
-
     </div>
 </section>
 

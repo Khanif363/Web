@@ -60,6 +60,12 @@
         "jasa": "服务",
         "aloe": "芦荟新鲜叶",
         "descaloe": "生长在热带和亚热带气候中的植物，可用于食品工业，药房和美容产品。",
+        "descaloe1": "颜色 ： 绿色",
+        "descaloe2": "原产地 ： 印度尼西亚婆罗洲西部",
+        "decsaloe3": "长度：±60厘米",
+        "descaloe4": "直径 ： ±27 cm",
+        "descaloe5": "宽 ：± 12 厘米",
+        "descaloe6": "1叶约700克",
         "betel": "生槟榔",
         "descbetel": "单子叶植物被归类为棕榈树，生长为热带植物。",
         "lalpari": "生丁香",
@@ -86,7 +92,8 @@
         "produksi": "周转/生产能力？",
         "descproduksi": "40吨/月。",
         "mengawasi": "如何监控企业对环境和社会的影响？",
-        "descmengawasi": "直接与公共教育计划合作伙伴，供应商和消费者沟通，通过电子邮件和whatsapp提供建议和投诉设施。"
+        "descmengawasi": "直接与公共教育计划合作伙伴，供应商和消费者沟通，通过电子邮件和whatsapp提供建议和投诉设施。",
+        "descfotovideo": "更多照片和视频："
     },
     "keberlangsungan": {
         "keberlangsungan": "环境的可持续性",

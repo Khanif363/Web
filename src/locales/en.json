@@ -60,6 +60,12 @@
         "jasa": "Service",
         "aloe": "Aloe vera fresh leaf",
         "descaloe": "Plants that grow in tropical and subtropical climates that can be applied in the food industry, pharmacy, and beauty products.",
+        "descaloe1": "Color : green",
+        "descaloe2": "Origin : west borneo Indonesia",
+        "decsaloe3": "Length: ± 60cm",
+        "descaloe4": "Diameter :  ±27 cm",
+        "descaloe5": "Wide :± 12 cm",
+        "descaloe6": "1leaf around 700grams",
         "betel": "Raw betel nut",
         "descbetel": "Monocots plants classified as palms that grow as tropical plants.",
         "lalpari": "Raw Clove",
@@ -86,7 +92,8 @@
         "produksi": "Turnover/Production capability?",
         "descproduksi": "40 tons/month.",
         "mengawasi": "How to monitor the impact of business on the environment and society?",
-        "descmengawasi": "Communicate directly with the public Education programs partners, suppliers and consumers, providing advice and complaint facilities via email and whatsapp."
+        "descmengawasi": "Communicate directly with the public Education programs partners, suppliers and consumers, providing advice and complaint facilities via email and whatsapp.",
+        "descfotovideo": "More Photos & videos:"
     },
     "keberlangsungan": {
         "keberlangsungan": "Sustainability of the environment",

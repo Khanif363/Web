@@ -60,6 +60,12 @@
         "jasa": "Jasa",
         "aloe": "Aloe vera fresh leaf",
         "descaloe": "Tanaman yang tumbuh di iklim tropis dan subtropis yang bisa di aplikasikan di industri pangan, pharmacy, dan beauty product.",
+        "descaloe1": "Warna : hijau",
+        "descaloe2": "Asal : kalimantan barat Indonesia",
+        "decsaloe3": "Panjang: ± 60cm",
+        "descaloe4": "Diameter : ±27 cm",
+        "descaloe5": "Lebar :± 12 cm",
+        "descaloe6": "1leaf sekitar 700gram",
         "betel": "Raw betel nut",
         "descbetel": "Tumbuhan monokotil yang tergolong palem paleman yang tumbuh sebagai tanaman tropis.",
         "lalpari": "Raw Clove",
@@ -70,7 +76,7 @@
         "desclalpari4": "Pengepakan : tas goni/pp 50kg atau permintaan pelanggan",
         "desclalpari5": "Kapasitas 40 ton/bulan",
         "coffe": "Coffee beans",
-        "desccoffe": "Masih berwarna hijau dan telah dipanggang.",
+        "desccoffe": "Ada yang masih hijau dan juga yang telah dipanggang.",
         "coffebubuk": "Kopi Bubuk Kemasan",
         "coffebubukdesc": "Kopi bubuk asli berupa kemasan.",
         "coffebiji": "Biji kopi kemasan",
@@ -86,7 +92,8 @@
         "produksi": "Omzet/Kemampuan produksi?",
         "descproduksi": "40 Ton perbulan.",
         "mengawasi": "Upaya mengawasi dampak bisnis terhadap lingkungan hidup dan masyarakat?",
-        "descmengawasi": "Berkomunikasi langsung dengan masyarakat Program edukasi mitra, pemasok dan konsumen,Memberikan fasilitas saran dan keluhan melalui email dan whatsapp."
+        "descmengawasi": "Berkomunikasi langsung dengan masyarakat Program edukasi mitra, pemasok dan konsumen,Memberikan fasilitas saran dan keluhan melalui email dan whatsapp.",
+        "descfotovideo": "Foto & video Selengkapnya:"
     },
     "keberlangsungan": {
         "keberlangsungan": "Keberlangsungan lingkungan hidup",

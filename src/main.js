@@ -15,7 +15,7 @@ const router = createRouter({
     history: createWebHistory(),
     routes:[
          {path: '/produk-aloe', name: "produk-aloe", component: ProdukAloe}, // path "/" diberi name "home" dan dia akan menampilkan konten dari "pages/Home.vue"
-         {path: '/', name: "home",name: "home", component: Home},
+         {path: '/', name: "home", component: Home},
          {path: '/produk-betel', name: "produk-betel", component: ProdukBetel},
          {path: '/produk-clove', name: "produk-clove", component: ProdukClove},
          {path: '/produk-coffee', name: "produk-coffee", component: ProdukCoffee},
