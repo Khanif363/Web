@@ -5,13 +5,14 @@
             <h2>{{ $t("produk.coffe") }}</h2>
         </div>
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-4">
+            <div class="row cols-sm-6 justify-content-center g-4">
+                <div class="col-12 col-sm-4">
                     <div class="text-center">
                         <img src="/assets/img/coffee-beans.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-sm-4">
+                        <p>{{ $t("produk.desccoffe") }}</p>
                     <!-- <p>{{ $t("produk.desclalpari1") }}<br>
                         {{ $t("produk.desclalpari2") }}<br>
                         {{ $t("produk.desclalpari3") }}<br>
@@ -26,33 +27,33 @@
             <h4>{{ $t("produk.descfotovideo") }}</h4>
         </div>
         <div class="container-fluid">
-            <div class="row justify-content-center g-1">
-                <div class="col-3">
+            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 justify-content-center g-1">
+                <div class="col">
                     <div class="text-center">
                         <img src="/assets/img/coffee-beans.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col">
                     <div class="text-center">
                         <img src="/assets/img/kopi-bubuk-kemasan.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col">
                     <div class="text-center">
                         <img src="/assets/img/biji-kopi-kemasan.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col">
                     <div class="text-center">
                         <img src="/assets/img/coffee2.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col">
                     <div class="text-center">
                         <img src="/assets/img/coffee3.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col">
                     <div class="text-center">
                         <img src="/assets/img/coffee4.png" class="rounded border img-fluid" alt="...">
                     </div>
