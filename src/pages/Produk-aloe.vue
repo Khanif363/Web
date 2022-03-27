@@ -12,7 +12,12 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-4">
-                    <p>{{ $t("produk.descaloe") }}</p>
+                    <p>{{ $t("produk.descaloe1") }}<br>
+                        {{ $t("produk.descaloe2") }}<br>
+                        {{ $t("produk.descaloe3") }}<br>
+                        {{ $t("produk.descaloe4") }}<br>
+                        {{ $t("produk.descaloe5") }}<br>
+                    </p>
                 </div>
             </div>
         </div>
