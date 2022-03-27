@@ -22,7 +22,7 @@
             <h4>{{ $t("produk.descfotovideo") }}</h4>
         </div>
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center g-1">
                 <div class="col-3">
                     <div class="text-center">
                         <img src="/assets/img/betel.png" class="rounded img-fluid" alt="...">

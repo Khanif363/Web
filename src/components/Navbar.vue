@@ -13,9 +13,9 @@
         <nav id="navbar" class="navbar">
           <ul>
             <li class="active"><a class="nav-link scrollto " href="/">{{ $t("navbar.home") }}</a></li>
-            <li><a class="nav-link  scrollto" href="index.html#about">{{ $t("navbar.tentang") }}</a></li>
-            <li><a class="nav-link scrollto" href="index.html#produk">{{ $t("navbar.produk") }}</a></li>
-            <li><a class="nav-link scrollto" href="index.html#contact">{{ $t("navbar.kontak") }}</a></li>
+            <li><a class="nav-link  scrollto" href="/#about">{{ $t("navbar.tentang") }}</a></li>
+            <li><a class="nav-link scrollto" href="/#produk">{{ $t("navbar.produk") }}</a></li>
+            <li><a class="nav-link scrollto" href="/#contact">{{ $t("navbar.kontak") }}</a></li>
             <div class="nav-link scrollto">
               <select v-model="language" @change="changeLanguage" class="custome-select bg-transparent scrollto text-light" style="border-radius:20px;">
                 <option class="bg-dark text-light  scrollto" value="id">Indonesia</option>

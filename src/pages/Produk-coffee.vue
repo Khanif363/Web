@@ -26,32 +26,47 @@
             <h4>{{ $t("produk.descfotovideo") }}</h4>
         </div>
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row justify-content-center g-1">
                 <div class="col-3">
                     <div class="text-center">
-                        <!-- <img src="/assets/img/clove.png" class="rounded img-fluid" alt="..."> -->
+                        <img src="/assets/img/coffee-beans.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col-3">
                     <div class="text-center">
-                        <!-- <img src="/assets/img/clove2.png" class="rounded border img-fluid" alt="..."> -->
+                        <img src="/assets/img/kopi-bubuk-kemasan.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col-3">
                     <div class="text-center">
-                        <!-- <img src="/assets/img/clove3.png" class="rounded border img-fluid" alt="..."> -->
+                        <img src="/assets/img/biji-kopi-kemasan.png" class="rounded border img-fluid" alt="...">
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="text-center">
+                        <img src="/assets/img/coffee2.png" class="rounded border img-fluid" alt="...">
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="text-center">
+                        <img src="/assets/img/coffee3.png" class="rounded border img-fluid" alt="...">
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="text-center">
+                        <img src="/assets/img/coffee4.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center mt-5">
+            <!-- <div class="row justify-content-center mt-5">
                 <div class="col-4">
                     <div class="text-center">
                     <video class="video" controls>
-                        <!-- <source src="/assets/video/clove-video.mp4" type="video/mp4"> -->
+                        <source src="/assets/video/clove-video.mp4" type="video/mp4">
                     </video>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

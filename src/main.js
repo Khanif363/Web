@@ -12,6 +12,9 @@ import ProdukCoffee from './pages/Produk-coffee.vue'
 
 
 const router = createRouter({
+    scrollBehavior (to, from, savedPosition) {
+        return{top: 0}
+    },
     history: createWebHistory(),
     routes:[
          {path: '/produk-aloe', name: "produk-aloe", component: ProdukAloe}, // path "/" diberi name "home" dan dia akan menampilkan konten dari "pages/Home.vue"
