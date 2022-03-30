@@ -18,7 +18,7 @@
         <div class="container" data-aos="fade-up">
   
           <div class="section-header">
-            <h2>{{ $t("tentang.tentang") }}</h2>
+            <h2><strong>{{ $t("tentang.tentang") }}</strong></h2>
             <!-- <p>{{ $t("tentang.desc") }}</p> -->
             <p class="text-center text-muted mt-5">{{ $t("tentang.keterangan") }}</p>
           </div>
@@ -87,7 +87,7 @@
     <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-            <h2>{{ $t("produk.judul") }}</h2>
+            <h2><strong>{{ $t("produk.judul") }}</strong></h2>
             <!-- <p>{{ $t("produk.produkdesc") }}</p> -->
         </div>
 
@@ -335,7 +335,7 @@
         <div class="container">
   
           <div class="section-header">
-            <h2>{{ $t("kontak.desckontak") }}</h2>
+            <h2><strong>{{ $t("kontak.desckontak") }}</strong></h2>
             <!-- <p>{{ $t("kontak.decs") }}</p> -->
           </div>
   
