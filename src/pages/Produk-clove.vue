@@ -8,15 +8,15 @@
             <div class="row cols-sm-6 justify-content-center g-4">
                 <div class="col-12 col-sm-4">
                     <div class="text-center">
-                        <img src="/assets/img/clove.png" class="rounded img-fluid" alt="...">
+                        <img src="/assets/img/clove2.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col-12 col-sm-4">
-                    <p>{{ $t("produk.desclalpari1") }}<br>
+                    <h5>{{ $t("produk.desclalpari1") }}<br>
                         {{ $t("produk.desclalpari2") }}<br>
                         {{ $t("produk.desclalpari3") }}<br>
                         {{ $t("produk.desclalpari4") }}
-                    </p>
+                    </h5>
                 </div>
             </div>
         </div>
@@ -46,8 +46,8 @@
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mt-5">
                 <div class="col">
                     <div class="text-center">
-                    <video class="video" controls>
-                        <source src="/assets/video/clove-video.mp4" type="video/mp4">
+                    <video class="video rounded" controls>
+                        <source src="/assets/video/video-clove-update.mp4" type="video/mp4">
                     </video>
                     </div>
                 </div>

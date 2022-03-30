@@ -8,11 +8,20 @@
             <div class="row cols-sm-6 justify-content-center g-4">
                 <div class="col-12 col-sm-4">
                     <div class="text-center">
-                        <img src="/assets/img/coffee-beans.png" class="rounded img-fluid" alt="...">
+                        <img src="/assets/img/coffee3.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col-12 col-sm-4">
-                        <p>{{ $t("produk.desccoffe") }}</p>
+                    <ul>
+                        <li><h5>{{ $t("produk.kategori") }}</h5></li>
+                        <ol>
+                            <li>{{ $t("produk.kategori1") }}</li>
+                            <li>{{ $t("produk.kategori2") }}</li>
+                            <li>{{ $t("produk.kategori3") }}</li>
+                        </ol>
+                        <li class="mt-1"><h5>{{ $t("produk.kemasancoffee") }}</h5></li>
+                        <li><h5>{{ $t("produk.gorengcoffee") }}</h5></li>
+                    </ul>
                     <!-- <p>{{ $t("produk.desclalpari1") }}<br>
                         {{ $t("produk.desclalpari2") }}<br>
                         {{ $t("produk.desclalpari3") }}<br>

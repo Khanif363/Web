@@ -12,12 +12,12 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-4">
-                    <p>{{ $t("produk.descaloe1") }}<br>
+                    <h5>{{ $t("produk.descaloe1") }}<br>
                         {{ $t("produk.descaloe2") }}<br>
                         {{ $t("produk.descaloe3") }}<br>
                         {{ $t("produk.descaloe4") }}<br>
                         {{ $t("produk.descaloe5") }}<br>
-                    </p>
+                    </h5>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mt-5">
                 <div class="col">
                     <div class="text-center">
-                    <video class="video" controls>
+                    <video class="video rounded" controls>
                         <source src="/assets/video/aloe-vera-video.mp4" type="video/mp4">
                     </video>
                     </div>
