@@ -19,8 +19,7 @@
                             <li>{{ $t("produk.kategori2") }}</li>
                             <li>{{ $t("produk.kategori3") }}</li>
                         </ol>
-                        <li class="mt-1"><h5>{{ $t("produk.kemasancoffee") }}</h5></li>
-                        <li><h5>{{ $t("produk.gorengcoffee") }}</h5></li>
+                        <li class="mt-1"><h5>{{ $t("produk.kebutuhancoffee") }}</h5></li>
                     </ul>
                     <!-- <p>{{ $t("produk.desclalpari1") }}<br>
                         {{ $t("produk.desclalpari2") }}<br>
