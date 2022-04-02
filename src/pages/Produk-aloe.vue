@@ -5,19 +5,20 @@
             <h2>{{ $t("produk.aloe") }}</h2>
         </div>
         <div class="container">
-            <div class="row cols-sm-6 justify-content-center g-4">
+            <div class="row cols-sm-6 justify-content-center g-5">
                 <div class="col-12 col-sm-4">
                     <div class="text-center">
                         <img src="/assets/img/aloe-vera.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col-12 col-sm-4">
-                    <h5>{{ $t("produk.descaloe1") }}<br>
-                        {{ $t("produk.descaloe2") }}<br>
-                        {{ $t("produk.descaloe3") }}<br>
-                        {{ $t("produk.descaloe4") }}<br>
-                        {{ $t("produk.descaloe5") }}<br>
-                    </h5>
+                    <ul>
+                        <li><h5>{{ $t("produk.descaloe1") }}</h5></li>
+                        <li><h5>{{ $t("produk.descaloe2") }}</h5></li>
+                        <li><h5>{{ $t("produk.descaloe3") }}</h5></li>
+                        <li><h5>{{ $t("produk.descaloe4") }}</h5></li>
+                        <li><h5>{{ $t("produk.descaloe5") }}</h5></li>
+                    </ul>
                 </div>
             </div>
         </div>

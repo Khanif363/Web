@@ -5,7 +5,7 @@
             <h2>{{ $t("produk.coffe") }}</h2>
         </div>
         <div class="container">
-            <div class="row cols-sm-6 justify-content-center g-4">
+            <div class="row cols-sm-6 justify-content-center g-5">
                 <div class="col-12 col-sm-4">
                     <div class="text-center">
                         <img src="/assets/img/coffee3.png" class="rounded img-fluid" alt="...">
@@ -15,9 +15,9 @@
                     <ul>
                         <li><h5>{{ $t("produk.kategori") }}</h5></li>
                         <ol>
-                            <li>{{ $t("produk.kategori1") }}</li>
-                            <li>{{ $t("produk.kategori2") }}</li>
-                            <li>{{ $t("produk.kategori3") }}</li>
+                            <li><h5>{{ $t("produk.kategori1") }}</h5></li>
+                            <li><h5>{{ $t("produk.kategori2") }}</h5></li>
+                            <li><h5>{{ $t("produk.kategori3") }}</h5></li>
                         </ol>
                         <li class="mt-1"><h5>{{ $t("produk.kebutuhancoffee") }}</h5></li>
                     </ul>

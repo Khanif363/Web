@@ -5,18 +5,19 @@
             <h2>{{ $t("produk.lalpari") }}</h2>
         </div>
         <div class="container">
-            <div class="row cols-sm-6 justify-content-center g-4">
+            <div class="row cols-sm-6 justify-content-center g-5">
                 <div class="col-12 col-sm-4">
                     <div class="text-center">
                         <img src="/assets/img/clove2.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col-12 col-sm-4">
-                    <h5>{{ $t("produk.desclalpari1") }}<br>
-                        {{ $t("produk.desclalpari2") }}<br>
-                        {{ $t("produk.desclalpari3") }}<br>
-                        {{ $t("produk.desclalpari4") }}
-                    </h5>
+                    <ul>
+                        <li><h5>{{ $t("produk.desclalpari1") }}</h5></li>
+                        <li><h5>{{ $t("produk.desclalpari2") }}</h5></li>
+                        <li><h5>{{ $t("produk.desclalpari3") }}</h5></li>
+                        <li><h5>{{ $t("produk.desclalpari4") }}</h5></li>
+                    </ul>
                 </div>
             </div>
         </div>
