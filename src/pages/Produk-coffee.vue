@@ -72,6 +72,16 @@
                         <img src="/assets/img/coffee4.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
+                <div class="col">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                        <img src="/assets/img/kopi1.png" class="rounded border img-fluid" alt="...">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                        <img src="/assets/img/kopi2.png" class="rounded border img-fluid" alt="...">
+                    </div>
+                </div>
             </div>
             <!-- <div class="row justify-content-center mt-5">
                 <div class="col-4">
@@ -123,6 +133,20 @@
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <img src="/assets/img/coffee4.png" class="rounded border img-fluid" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <img src="/assets/img/kopi1.png" class="rounded border img-fluid" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <img src="/assets/img/kopi2.png" class="rounded border img-fluid" alt="...">
                 </div>
             </div>
         </div>
