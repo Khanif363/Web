@@ -45,12 +45,12 @@
         <div class="container">
             <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 justify-content-center g-1">
                 <div class="col">
-                    <div class="text-center">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal1">
                         <img src="/assets/img/betel.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col">
-                    <div class="text-center">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                         <img src="/assets/img/betel2.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
@@ -58,6 +58,20 @@
             
         </div>
     </div>
+        <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <img src="/assets/img/betel.png" class="rounded img-fluid" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <img src="/assets/img/betel2.png" class="rounded img-fluid" alt="...">
+                </div>
+            </div>
+        </div>
 </section>
 </template>
 
