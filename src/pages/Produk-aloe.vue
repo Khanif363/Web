@@ -44,7 +44,7 @@
                 <div class="col">
                     <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                     <video class="video rounded border" controls>
-                        <source src="/assets/video/video-aloe-update.mp4" type="video/mp4">
+                        <source src="/assets/video/aloe-update.mp4" type="video/mp4">
                     </video>
                     </div>
                 </div>
