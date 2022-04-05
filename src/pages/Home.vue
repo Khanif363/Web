@@ -23,15 +23,15 @@
             <p class="text-center text-muted mt-5">{{ $t("tentang.keterangan") }}</p>
           </div>
   
-          <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="200">
+          <div class="row g-4 g-sm-5" data-aos="fade-up" data-aos-delay="50">
   
             <div class="col-lg-5">
-              <div class="">
-                <img src="/assets/img/logo-per-removebg-preview.png" style="border-radius: 1%;" class="img-fluid" alt="">
+              <div class="container">
+                <img src="/assets/img/logo-per-removebg-preview.png" style="border-radius: 1%;width: 350px;" class="img-fluid" alt="">
               </div>
             </div>
   
-            <div class="col-lg-7 ">
+            <div class="col-lg-6">
               <!-- <p class="text-center text-muted">{{ $t("tentang.keterangan") }}</p> -->
               <h3 class="pt-0 text-center">{{ $t("tentang.judulvisi") }}</h3>
   
@@ -91,7 +91,7 @@
             <!-- <p>{{ $t("produk.produkdesc") }}</p> -->
         </div>
 
-        <div data-aos="fade-up" data-aos-delay="200">
+        <div data-aos="fade-up" data-aos-delay="50">
 
           <div class="container">
 

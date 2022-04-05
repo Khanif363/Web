@@ -2,7 +2,7 @@
 <section>
     <div class="container atas" data-aos="fade-up">
         <div class="section-header">
-            <h2>{{ $t("produk.aloe") }}</h2>
+            <h2><strong>{{ $t("produk.aloe") }}</strong></h2>
         </div>
         <div class="container">
             <div class="row cols-sm-6 justify-content-center g-5">

@@ -2,7 +2,7 @@
 <section>
     <div class="container atas" data-aos="fade-up">
         <div class="section-header">
-            <h2>{{ $t("produk.coffe") }}</h2>
+            <h2><strong>{{ $t("produk.coffe") }}</strong></h2>
         </div>
         <div class="container">
             <div class="row cols-sm-6 justify-content-center g-5">
@@ -19,6 +19,12 @@
                             <li><h5>{{ $t("produk.kategori2") }}</h5></li>
                             <li><h5>{{ $t("produk.kategori3") }}</h5></li>
                         </ol>
+                        <li class="mt-1"><h5>{{ $t("produk.desccoffee1") }}</h5></li>
+                        <li class="mt-1"><h5>{{ $t("produk.desccoffee2") }}</h5></li>
+                        <li class="mt-1"><h5>{{ $t("produk.desccoffee3") }}</h5></li>
+                        <li class="mt-1"><h5>{{ $t("produk.desccoffee4") }}</h5></li>
+                        <li class="mt-1"><h5>{{ $t("produk.desccoffee5") }}</h5></li>
+                        <li class="mt-1"><h5>{{ $t("produk.desccoffee6") }}</h5></li>
                         <li class="mt-1"><h5>{{ $t("produk.kebutuhancoffee") }}</h5></li>
                     </ul>
                     <!-- <p>{{ $t("produk.desclalpari1") }}<br>
