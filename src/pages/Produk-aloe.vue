@@ -11,7 +11,7 @@
                         <img src="/assets/img/aloe-vera.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-5">
                     <ul>
                         <li><h5>{{ $t("produk.descaloe1") }}</h5></li>
                         <li><h5>{{ $t("produk.descaloe2") }}</h5></li>
@@ -43,7 +43,7 @@
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mt-5">
                 <div class="col">
                     <div class="text-center">
-                    <video class="video rounded" controls>
+                    <video class="video rounded border" controls>
                         <source src="/assets/video/video-aloe-update.mp4" type="video/mp4">
                     </video>
                     </div>

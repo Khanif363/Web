@@ -11,7 +11,7 @@
                         <img src="/assets/img/betel.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-5">
                     <ul>
                         <!-- <li><h5>{{ $t("produk.descbetel") }}</h5></li> -->
                         <li><h5>{{ $t("produk.quality") }}</h5></li>

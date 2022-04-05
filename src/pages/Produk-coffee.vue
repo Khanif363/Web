@@ -11,7 +11,7 @@
                         <img src="/assets/img/coffee3.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-5">
                     <ul>
                         <li><h5>{{ $t("produk.kategori") }}</h5></li>
                         <ol>

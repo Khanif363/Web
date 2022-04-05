@@ -11,7 +11,7 @@
                         <img src="/assets/img/clove2.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-5">
                     <ul>
                         <li><h5>{{ $t("produk.desclalpari1") }}</h5></li>
                         <li><h5>{{ $t("produk.desclalpari2") }}</h5></li>
@@ -47,7 +47,7 @@
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mt-5">
                 <div class="col">
                     <div class="text-center">
-                    <video class="video rounded" controls>
+                    <video class="video rounded border" controls>
                         <source src="/assets/video/video-clove-update-ok.mp4" type="video/mp4">
                     </video>
                     </div>
