@@ -48,7 +48,7 @@
                 <div class="col">
                     <div class="text-center">
                     <video class="video rounded" controls>
-                        <source src="/assets/video/video-clove-update.mp4" type="video/mp4">
+                        <source src="/assets/video/video-clove-update-ok.mp4" type="video/mp4">
                     </video>
                     </div>
                 </div>

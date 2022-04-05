@@ -44,7 +44,7 @@
                 <div class="col">
                     <div class="text-center">
                     <video class="video rounded" controls>
-                        <source src="/assets/video/aloe-vera-video.mp4" type="video/mp4">
+                        <source src="/assets/video/video-aloe-update.mp4" type="video/mp4">
                     </video>
                     </div>
                 </div>
