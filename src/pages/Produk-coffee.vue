@@ -73,12 +73,12 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal7">
                         <img src="/assets/img/kopi1.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col">
-                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal8">
                         <img src="/assets/img/kopi2.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
@@ -136,14 +136,14 @@
                 </div>
             </div>
         </div>
-        <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade" id="exampleModal7" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <img src="/assets/img/kopi1.png" class="rounded border img-fluid" alt="...">
                 </div>
             </div>
         </div>
-        <div class="modal fade" id="exampleModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade" id="exampleModal8" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <img src="/assets/img/kopi2.png" class="rounded border img-fluid" alt="...">
