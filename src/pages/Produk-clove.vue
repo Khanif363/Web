@@ -13,6 +13,13 @@
                 </div>
                 <div class="col-12 col-sm-5">
                     <ul>
+                        <li><h5>{{ $t("produk.lalparimoisture") }}</h5></li>
+                        <li><h5>{{ $t("produk.lalparimaterial") }}</h5></li>
+                        <li><h5>{{ $t("produk.lalpariadmixture") }}</h5></li>
+                        <li><h5>{{ $t("produk.lalparistems") }}</h5></li>
+                        <li><h5>{{ $t("produk.lalparigrade") }}</h5></li>
+                        <li><h5>{{ $t("produk.lalparipackaging") }}</h5></li>
+                        <li><h5>{{ $t("produk.lalpariplace") }}</h5></li>
                         <li><h5>{{ $t("produk.desclalpari1") }}</h5></li>
                         <li><h5>{{ $t("produk.desclalpari2") }}</h5></li>
                         <li><h5>{{ $t("produk.desclalpari3") }}</h5></li>

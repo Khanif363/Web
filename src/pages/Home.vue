@@ -126,7 +126,7 @@
                   <div class="col">
                       <router-link to="/produk-clove">
                       <div class="card shadow-sm">
-                            <img  src="/assets/img/clove.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
+                            <img  src="/assets/img/clove2.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal3">
                               <div class="card-body">
                                 <h5><strong class="text-dark">{{ $t("produk.lalpari") }}</strong></h5>
                               </div>
@@ -136,7 +136,7 @@
                   <div class="col">
                       <router-link to="/produk-coffee">
                       <div class="card shadow-sm">
-                            <img src="/assets/img/coffee-beans.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
+                            <img src="/assets/img/coffee3.png" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal4">
                             <div class="card-body">
                               <h5><strong class="text-dark">{{ $t("produk.coffe") }}</strong></h5>
                             </div>
