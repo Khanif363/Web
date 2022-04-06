@@ -54,7 +54,7 @@
             <div class="row row-cols-1 row-cols-md-3 justify-content-center mt-5">
                 <div class="col">
                     <div class="text-center">
-                    <video class="video rounded border" controls>
+                    <video class="video rounded border" poster="/assets/img/frameout.png" controls>
                         <source src="/assets/video/clove-update.mp4" type="video/mp4">
                     </video>
                     </div>
@@ -90,6 +90,6 @@
 .video {
     width: 100%;
     height: 80%;
-    max-height: 400px;
+    max-height: 500px;
 }
 </style>
