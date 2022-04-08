@@ -13,7 +13,17 @@ import ProdukCoffee from './pages/Produk-coffee.vue'
 
 const router = createRouter({
     scrollBehavior (to, from, savedPosition) {
-        return{top: 0}
+        if (to.hash) {
+            return {
+              el: to.hash,
+              behavior: 'smooth',
+            }
+        }
+        if (savedPosition) {
+            return savedPosition
+          } else {
+            return { top: 0 }
+          }
     },
     history: createWebHistory(),
     routes:[
