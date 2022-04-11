@@ -383,18 +383,16 @@
               </div>
   
             </div>
-  
-            <div class="col-lg-3 container">
-              <div  style="margin-top:40px" class="text-center">
+            <div class="col-lg-3 container text-center align-items-center justify-content-center">
+              <div  style="margin-top:40px" class="text-center align-items-center justify-content-center">
                   <img src="/assets/img/qr-whatsapp.png" alt="">
-                  <p class="container text-muted mx-auto">{{ $t("qr.whatsapp") }}</p>
+                  <p style="text-size:80%" class="text-muted mt-3">{{ $t("qr.whatsapp") }}</p>
               </div>
             </div>
- 
-            <div class="col-lg-3 container">
-              <div style="margin-top:40px" class="text-center">
+            <div class="col-lg-3 container text-center align-items-center justify-content-center">
+              <div style="margin-top:40px" class="text-center align-items-center justify-content-center">
                   <img src="/assets/img/qr-ig.png" alt="">
-                  <p class="container text-muted mx-auto" style="text-size:80%">{{ $t("qr.instagram") }}</p>
+                  <p style="text-size:80%" class="text-muted mt-3">{{ $t("qr.instagram") }}</p>
               </div>
             </div>
   
