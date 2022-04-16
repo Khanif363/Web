@@ -5,7 +5,7 @@
         <h2 class="text-white"><strong>{{ $t("home.judul") }}</strong><br><span class="text-info"><strong>{{ $t("home.judulSpan") }}</strong></span></h2>
         <p class="text-light"><strong>{{ $t("home.slogan") }}</strong></p>
         <div class="d-flex">
-          <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox text-decoration-none btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span class="text-light">{{ $t("home.tonton") }}</span></a>
+          <a href="https://youtu.be/2cuHKZobecE" class="glightbox text-decoration-none btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span class="text-light">{{ $t("home.tonton") }}</span></a>
         </div>
       </div>
     </section>
@@ -376,7 +376,7 @@
                   <i class="bi bi-phone flex-shrink-0"></i>
                   <div>
                     <h4>{{ $t("kontak.kontak") }}</h4>
-                    <p>081513110686</p>
+                    <p>+62 819-0588-8666</p>
                   </div>
                 </div><!-- End Info Item -->
   

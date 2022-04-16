@@ -10,7 +10,7 @@
               <div class="footer-info">
                 <h3>{{ $t("footer.judul") }}</h3>
                 <p>{{ $t("footer.alamat") }}<br><br>
-                  <strong>{{ $t("footer.telepon") }}</strong> 081513110686<br>
+                  <strong>{{ $t("footer.telepon") }}</strong> +62 819-0588-8666<br>
                   <strong>{{ $t("footer.email") }}</strong> Makmurkitaperkasa@gmail.com<br>
                 </p>
               </div>
@@ -32,7 +32,7 @@
           </div>
   
           <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
-            <a href="https://wa.me/6281513110686" target="_blank" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
+            <a href="https://wa.me/+6281905888666" target="_blank" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
             <a href="https://instagram.com/makmurkitaperkasa?utm_medium=copy_link" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
             <a href="https://www.facebook.com/profile.php?id=100078992497598" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
           </div>
