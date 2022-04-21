@@ -44,7 +44,7 @@
             <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 justify-content-center g-1">
                 <div class="col">
                     <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-                        <img src="/assets/img/coffee-beans.png" class="rounded img-fluid" alt="...">
+                        <img src="/assets/img/coffee3.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col">
@@ -64,12 +64,7 @@
                 </div>
                 <div class="col">
                     <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal5">
-                        <img src="/assets/img/coffee3.png" class="rounded border img-fluid" alt="...">
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
-                        <img src="/assets/img/coffee4.png" class="rounded border img-fluid" alt="...">
+                        <img src="/assets/img/coffee-beans.png" class="rounded img-fluid" alt="...">
                     </div>
                 </div>
                 <div class="col">
@@ -80,6 +75,11 @@
                 <div class="col">
                     <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal8">
                         <img src="/assets/img/kopi2.png" class="rounded border img-fluid" alt="...">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="text-center" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal6">
+                        <img src="/assets/img/coffee4.png" class="rounded border img-fluid" alt="...">
                     </div>
                 </div>
             </div>
